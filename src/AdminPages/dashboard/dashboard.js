@@ -769,7 +769,7 @@ const Dashboard = (props) => {
             />
             </Typography>
             <Typography>
-            MILK SUBSIDY AND MILK COLLECTION SYSTEM
+            ONLINE MILK COLLECTION & TRACKING MANAGEMENT SYSTEM
             <br />
             Directorate of Dairy Development, Assam
           </Typography>

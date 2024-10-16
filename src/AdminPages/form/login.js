@@ -85,10 +85,10 @@ const Login = () => {
             <Nav2 />
             
             <div className='col-12 p-0 m-0 pt-2 text-center'>
-                <h2><i>Providing Rs. 5 subsidy to farmers pouring milk to Dairy Co-operative Societies</i></h2>
-                <h2><i>দুগ্ধ সমবায় সমিতিক গাখীৰ যোগান ধৰি থকা কৃষকসকলক 5 টকাৰ ৰাজসাহায্য প্ৰদান কৰা</i></h2>
+                <h2><i>ONLINE MILK COLLECTION & TRACKING MANAGEMENT SYSTEM</i></h2>
+                {/* <h2><i>দুগ্ধ সমবায় সমিতিক গাখীৰ যোগান ধৰি থকা কৃষকসকলক 5 টকাৰ ৰাজসাহায্য প্ৰদান কৰা</i></h2> */}
                 <br />
-                <h2 className='text-white bg-warning'>DCS/DLC/SLSC/Finance LOGIN (ডিচিএছ/ডিএলচি/এছএলএছচি/বিত্ত লগইন।)</h2>
+                <h2 className='text-white bg-warning'>DCS/DLC/SLSC LOGIN (ডিচিএছ/ডিএলচি/এছএলএছচি লগইন।)</h2>
                 {/* <h2 className='text-white bg-warning'>ডিচিএছ/ডিএলচি/এছএলএছচি/বিত্ত লগইন।</h2> */}
             </div>
             <div className='bg-image'>
@@ -111,7 +111,7 @@ const Login = () => {
                                         <div className='d-flex align-items-center justify-content-center pt-4'>
                                         <div class="form-2-wrapper">
                                             <h2 class="text-center mb-4">Sign Into Your Account</h2>
-                                            <h6 className='text-white p-1 text-center bg-warning rounded'>DCS/DLC/SLSC/FINANCE LOGIN</h6>
+                                            <h6 className='text-white p-1 text-center bg-warning rounded'>DCS/DLC/SLSC LOGIN</h6>
                                                 {/* <form> */}
                                                 <br/>
                                                 <div className="inputs">

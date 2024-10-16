@@ -403,7 +403,7 @@ const SLSCApproval = () => {
         </div>
       </Box>
 
-      <div className="my-3 d-flex gap-3">
+      {/* <div className="my-3 d-flex gap-3">
         <input
           type="month"
           name=""
@@ -417,7 +417,7 @@ const SLSCApproval = () => {
             Approve and sent to Finance
           </Button>
         </div>
-      </div>
+      </div> */}
 
       <TableContainer component={Paper}>
         <Table

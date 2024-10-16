@@ -497,9 +497,9 @@ const ApprovalTable = () => {
                                     (Fat / SNF / Water Content / Lactometer)
                                 </StyledTableCell>
 
-                                <StyledTableCell className="text-center p-2">
+                                {/* <StyledTableCell className="text-center p-2">
                                     Amount (in Rs)
-                                </StyledTableCell>
+                                </StyledTableCell> */}
                                 
                                 <StyledTableCell className="text-center p-2">
                                     Status
@@ -566,9 +566,9 @@ const ApprovalTable = () => {
                                                 />
                                             </TableCell>
 
-                                            <TableCell className="text-center p-2">
+                                            {/* <TableCell className="text-center p-2">
                                                 {row.litter ? row.litter * 5 : 0} ₹
-                                            </TableCell>
+                                            </TableCell> */}
                                             <TableCell className="text-center p-2">
                                                 <span
                                                     className={`${row.isApprove === "Pending" || !row.isApprove

@@ -32,22 +32,21 @@ const OverviewScheme = () => {
           <div>
 
             <i>
-              Providing Rs. 5 subsidy to farmers pouring milk to Dairy
-              Co-operative Societies
+            ONLINE MILK COLLECTION & TRACKING MANAGEMENT SYSTEM
             </i>
           </div>
           <div>
 
-            <i>
+            {/* <i>
               দুগ্ধ সমবায় সমিতিক গাখীৰ  যোগান ধৰি থকা কৃষকসকলক 5 টকাৰ ৰাজসাহায্য প্ৰদান কৰা
-            </i>
+            </i> */}
           </div>
         </h2>
       </Col>
 
       <div class="container py-3">
         <div class="row g-4">
-          <div class="col-md-7">
+          <div class="col-md-12">
             <Col md={12}>
               <img
                 src="assets/dairy1.jpg"
@@ -56,36 +55,17 @@ const OverviewScheme = () => {
               />
             </Col>
           </div>
-          <div class="col-md-5 d-flex flex-column justify-content-center">
+          {/* <div class="col-md-5 d-flex flex-column justify-content-center">
             <h2 class="section-title text-center">Register</h2>
             <p class="about-us-text text-center">
               The DCS must be functional before March 31, 2024 and registered under the Assam Co-operative Societies Act, 2007.
             </p>
-            {/* <div class="row">
-                <div class="col-md-6">
-                  <h5>Our Vision</h5>
-                  <ul>
-                    <li>Praesent Sodales Orci</li>
-                    <li>Curabitur Dignissim</li>
-                    <li>Nulla Condimentum</li>
-                  </ul>
-                </div>
-                <div class="col-md-6">
-                  <h5>Our Mission</h5>
-                  <ul>
-                    <li>Nulla Condimentum</li>
-                    <li>Praesent Sodales Orci</li>
-                    <li>Curabitur Dignissim</li>
-                  </ul>
-                </div>
-              </div> */}
-            {/* <a href="/#/RegisterPage" class="btn btn-primary pt-2">
-              Register Here &rarr;
-            </a> */}
+           
+          
             <a href="javascript:;" class="btn btn-primary pt-2">
               Register Here &rarr;
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
 
